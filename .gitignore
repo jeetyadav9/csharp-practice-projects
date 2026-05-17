@@ -1,0 +1,47 @@
+# Build output
+bin/
+obj/
+out/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+
+# .NET generated files
+*.user
+*.suo
+*.rsuser
+*.cache
+*.pdb
+*.mdb
+*.pidb
+*.svclog
+*.nupkg
+project.lock.json
+project.assets.json
+
+# Test output
+TestResults/
+coverage/
+coverage.cobertura.xml
+*.trx
+
+# IDE folders
+.vs/
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Runtime app data, logs, and temporary files
+data/
+logs/
+*.log
+*.tmp
+*.bak
+
+# Secrets
+.env
+*.secrets.json
