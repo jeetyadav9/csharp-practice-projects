@@ -1,0 +1,11 @@
+<Project>
+  <PropertyGroup>
+    <Authors>Jeet Yadav</Authors>
+    <Company>Jeet Yadav</Company>
+    <RepositoryUrl>https://github.com/jeetyadav9/csharp-practice-projects</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+</Project>
